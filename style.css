@@ -1,0 +1,13 @@
+body {
+  /* font-family: "Cedarville Cursive", cursive; */
+  font-family: "Recursive", sans-serif;
+}
+.capital {
+  text-transform: uppercase;
+}
+.small {
+  text-transform: lowercase;
+}
+
+.scatter {
+}
